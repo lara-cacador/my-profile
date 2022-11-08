@@ -1,0 +1,19 @@
+.container {
+	height: 100%;
+	width: 100vh;
+	align-content: flex-start;
+	display: flex;
+	gap: 20px;
+	margin: 0 auto 0 auto;
+	padding: 20px;
+	flex-direction: column;
+}
+
+.container-row {
+	display: flex;
+	gap: 20px;
+	flex-direction: row;
+	align-content: stretch;
+	justify-content: space-between;
+}
+

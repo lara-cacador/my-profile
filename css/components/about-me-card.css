@@ -1,0 +1,12 @@
+#about-me-card {
+	flex-grow: 2;
+	background-color: white;
+	border-radius: 10px;
+	padding: 35px 45px 35px 45px;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+#about-me-card > p {
+	font-size: 18px;
+}

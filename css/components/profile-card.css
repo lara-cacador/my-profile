@@ -1,0 +1,14 @@
+#profile-card {
+	background: white;
+	border-radius: 10px;
+	flex-grow: 1;
+	overflow: hidden;
+}
+
+#profile-card > img {
+	width: 100%;
+}
+
+#profile-card-inner {
+	margin: 20px;
+}
